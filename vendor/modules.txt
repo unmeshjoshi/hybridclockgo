@@ -1,0 +1,92 @@
+# github.com/biogo/store v0.0.0-20201120204734-aad293a2328f
+## explicit
+# github.com/cockroachdb/cockroach v20.1.10+incompatible
+## explicit
+github.com/cockroachdb/cockroach/pkg/util/syncutil
+github.com/cockroachdb/cockroach/pkg/util/timeutil
+# github.com/cockroachdb/errors v1.8.2
+## explicit
+github.com/cockroachdb/errors
+github.com/cockroachdb/errors/assert
+github.com/cockroachdb/errors/barriers
+github.com/cockroachdb/errors/contexttags
+github.com/cockroachdb/errors/domains
+github.com/cockroachdb/errors/errbase
+github.com/cockroachdb/errors/errorspb
+github.com/cockroachdb/errors/errutil
+github.com/cockroachdb/errors/hintdetail
+github.com/cockroachdb/errors/issuelink
+github.com/cockroachdb/errors/markers
+github.com/cockroachdb/errors/report
+github.com/cockroachdb/errors/safedetails
+github.com/cockroachdb/errors/secondary
+github.com/cockroachdb/errors/stdstrings
+github.com/cockroachdb/errors/telemetrykeys
+github.com/cockroachdb/errors/withstack
+# github.com/cockroachdb/logtags v0.0.0-20190617123548-eb05cc24525f
+github.com/cockroachdb/logtags
+# github.com/cockroachdb/redact v1.0.8
+github.com/cockroachdb/redact
+github.com/cockroachdb/redact/internal
+github.com/cockroachdb/redact/internal/fmtsort
+# github.com/cockroachdb/sentry-go v0.6.1-cockroachdb.2
+github.com/cockroachdb/sentry-go
+# github.com/davecgh/go-spew v1.1.1
+github.com/davecgh/go-spew/spew
+# github.com/gogo/protobuf v1.3.1
+## explicit
+github.com/gogo/protobuf/proto
+github.com/gogo/protobuf/sortkeys
+github.com/gogo/protobuf/types
+# github.com/golang/protobuf v1.4.3
+## explicit
+# github.com/google/btree v1.0.0
+## explicit
+# github.com/google/uuid v1.0.0
+## explicit
+# github.com/kr/pretty v0.2.0
+github.com/kr/pretty
+# github.com/kr/text v0.1.0
+github.com/kr/text
+# github.com/nictuku/go-commander v0.0.0-20120815184540-df033a4b379c
+## explicit
+# github.com/petermattis/goid v0.0.0-20180202154549-b0b1615b78e5
+## explicit
+github.com/petermattis/goid
+# github.com/pkg/errors v0.9.1
+github.com/pkg/errors
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/prometheus/client_golang v1.8.0
+## explicit
+# github.com/sasha-s/go-deadlock v0.2.0
+## explicit
+github.com/sasha-s/go-deadlock
+# github.com/stretchr/testify v1.4.0
+## explicit
+github.com/stretchr/testify/assert
+# go.etcd.io/bbolt v1.3.5
+## explicit
+# go.uber.org/zap v1.13.0
+## explicit
+# golang.org/x/sys v0.0.0-20201015000850-e3ed0017c211
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/windows
+# google.golang.org/protobuf v1.23.0
+## explicit
+google.golang.org/protobuf/encoding/protowire
+google.golang.org/protobuf/internal/detrand
+google.golang.org/protobuf/internal/encoding/messageset
+google.golang.org/protobuf/internal/errors
+google.golang.org/protobuf/internal/fieldsort
+google.golang.org/protobuf/internal/flags
+google.golang.org/protobuf/internal/mapsort
+google.golang.org/protobuf/internal/pragma
+google.golang.org/protobuf/internal/strs
+google.golang.org/protobuf/proto
+google.golang.org/protobuf/reflect/protoreflect
+google.golang.org/protobuf/reflect/protoregistry
+google.golang.org/protobuf/runtime/protoiface
+# gopkg.in/yaml.v2 v2.3.0
+## explicit
+gopkg.in/yaml.v2
